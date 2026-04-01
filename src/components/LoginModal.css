@@ -1,0 +1,48 @@
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;   /* IMPORTANT */
+}
+
+.modal-box {
+  background: white;
+  padding: 30px;
+  width: 350px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 10000;
+}
+
+.modal-box input {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.links {
+  font-size: 14px;
+  color: #c25b7c;
+  cursor: pointer;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  padding: 8px 15px;
+  border: none;
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+
+.cancel {
+  background: gray;
+}
