@@ -602,6 +602,7 @@
         border: none;
         padding: 10px;
         cursor: pointer;
+        margin-top:10px;
     }
 
     .contact-form1 button:hover {
