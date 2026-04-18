@@ -303,6 +303,7 @@ width: 100px;
         height: 30px;
         width: 120px;
         margin-left: 330px;
+        color: white;
     }
 
     .home-top:hover {
@@ -410,6 +411,7 @@ width: 100px;
         border: none;
         height: 30px;
         width: 100px;
+        color: white;
     }
 
     .home-top:hover {
