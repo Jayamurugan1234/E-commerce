@@ -30,7 +30,8 @@ width: 100px;
 }
 
 .home1-top:hover{
-    color: white;
+                    background-color: rgb(76, 76, 181);
+
 }
 }
 
@@ -81,7 +82,8 @@ width: 100px;
 }
 
 .home1-top:hover{
-    color: white;
+                background-color: rgb(76, 76, 181);
+
 }
 }
 
@@ -123,6 +125,7 @@ width: 100px;
 }
 
 .home1-top:hover{
-    color: white;
+                background-color: rgb(76, 76, 181);
+
 }
 }
